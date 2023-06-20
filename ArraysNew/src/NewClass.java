@@ -25,7 +25,7 @@ public class NewClass {
         int target=scan.nextInt();
         for(i=0;i<a.length;i++){
             if(a[i]==target){
-                isthere=0;
+                isthere=1;//this will act as a flag to find the element
                 break;
             }
         }if(isthere==1){
