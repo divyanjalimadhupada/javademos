@@ -25,7 +25,7 @@ public class NewClass {
         int target=scan.nextInt();
         for(i=0;i<a.length;i++){
             if(a[i]==target){
-                isthere=1;
+                isthere=0;
                 break;
             }
         }if(isthere==1){
