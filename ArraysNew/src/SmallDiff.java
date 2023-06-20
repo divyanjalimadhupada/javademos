@@ -9,5 +9,7 @@
  * @author hp
  */
 public class SmallDiff {
-    
+    public static void main(String[] args) {
+        
+    }
 }
